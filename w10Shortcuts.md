@@ -15,7 +15,6 @@ So let's get the ball rolling with some old favourites that you probably already
 |<kbd>Ctrl</kbd> + <kbd>v</kbd>| Paste|
 |<kbd>Ctrl</kbd> + <kbd>v</kbd>| Paste|
 |<kbd><img src="http://i.stack.imgur.com/Rfuw7.png"></kbd> + <kbd>r</kbd>| Run dialog|
-|<kbd><img src="https://raw.githubusercontent.com/computamike/skills/main/assets/images/WindowsLogo.svg" style="max-width:100%;width: 1em;"></kbd> + <kbd>r</kbd>| Run dialog|
  
+<img src="https://raw.githubusercontent.com/computamike/skills/main/assets/images/WindowsLogo.svg"  width="40px">
  
- <img src="https://raw.githubusercontent.com/computamike/skills/main/assets/images/WindowsLogo.svg">
