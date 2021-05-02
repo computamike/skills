@@ -15,17 +15,7 @@ So let's get the ball rolling with some old favourites that you probably already
 |<kbd>Ctrl</kbd> + <kbd>v</kbd>| Paste|
 |<kbd>Ctrl</kbd> + <kbd>v</kbd>| Paste|
 |<kbd><img src="http://i.stack.imgur.com/Rfuw7.png"></kbd> + <kbd>r</kbd>| Run dialog|
-|<kbd><img src="https://raw.githubusercontent.com/computamike/skills/main/assets/images/WindowsLogo.svg"></kbd> + <kbd>r</kbd>| Run dialog|
-
-
-<img src="https://raw.githubusercontent.com/computamike/skills/main/assets/images/WindowsLogo.svg" style="height: 36px; display:inline-block;  vertical-align:middle;" class="icon">
-<h1>
-Headline
-</h1>
+|<kbd><img src="https://raw.githubusercontent.com/computamike/skills/main/assets/images/WindowsLogo.svg" style="max-width:100%;width: 1em;"></kbd> + <kbd>r</kbd>| Run dialog|
  
-[chevron]: /assets/images/windows10.svgg "Logo Title Text 2"
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-[winlogo]: http://i.stack.imgur.com/Rfuw7.png
-[newwinlogo]: http://i.stack.imgur.com/B8Zit.png
-[oldwinlogo]: http://i.stack.imgur.com/T0oPO.png
-[icon](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg) 
+ 
+ <img src="https://raw.githubusercontent.com/computamike/skills/main/assets/images/WindowsLogo.svg">
