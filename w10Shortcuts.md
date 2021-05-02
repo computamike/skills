@@ -19,3 +19,13 @@ So let's get the ball rolling with some old favourites that you probably already
 |<kbd>Alt</kbd> + <kbd>Tab</kbd>| Task switcher|
 |<kbd><img src="https://raw.githubusercontent.com/computamike/skills/main/assets/images/WindowsLogo.svg" width="8px"></kbd> + <kbd>Tab</kbd>| Improved Task switcher|
 
+Arranging windows
+|Shortcut Key|Description|
+|------------|-----------|
+|<kbd><img src="https://raw.githubusercontent.com/computamike/skills/main/assets/images/WindowsLogo.svg" width="8px"></kbd> + <kbd>←</kbd>|Maximize the app or desktop window to the left side of the screen.|
+|<kbd><img src="https://raw.githubusercontent.com/computamike/skills/main/assets/images/WindowsLogo.svg" width="8px"></kbd> + <kbd>→</kbd>|Maximize the app or desktop window to the right side of the screen.|
+
+left arrow: ← &#8592;
+upward arrow: ↑ &#8593;
+right arrow: → &#8594;
+downward arrow: ↓ &#8595;
