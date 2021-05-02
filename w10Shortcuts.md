@@ -1,0 +1,16 @@
+---
+layout: default
+page.title: main
+title: Windows 10 Shortcut Keys 
+---
+
+One strategy when trying to be productive might be the use of shortcut keys.  Using short cut key instantly gives the impression of familiarity with the system.
+
+So let's get the ball rolling with some old favourites that you probably already know.
+
+
+|Shortcut Key|Description|
+|------------|-----------|
+|<kbd>Ctrl</kbd> + <kbd>c</kbd>| Copy|
+|<kbd>Ctrl</kbd> + <kbd>v</kbd>| Paste|
+
