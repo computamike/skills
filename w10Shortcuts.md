@@ -14,14 +14,17 @@ So let's get the ball rolling with some old favourites that you probably already
 |<kbd>Ctrl</kbd> + <kbd>c</kbd>| Copy|
 |<kbd>Ctrl</kbd> + <kbd>v</kbd>| Paste|
 |<kbd>Ctrl</kbd> + <kbd>v</kbd>| Paste|
-|<kbd>⊞</kbd>| Show start Menu|
 |<kbd><img src="http://i.stack.imgur.com/Rfuw7.png"></kbd> + <kbd>r</kbd>| Run dialog|
- 
+
+
+<img src="https://raw.githubusercontent.com/computamike/skills/main/assets/images/WindowsLogo.svg" alt="" aria-hidden="true" role="presentation" />
+
+
 
 Reference-style: 
 ![alt text][logo]
 
-<img src="https://raw.githubusercontent.com/computamike/skills/main/assets/images/windows10.svg" alt="" aria-hidden="true" role="presentation" />
+<img src="https://raw.githubusercontent.com/computamike/skills/main/assets/images/WindowsLogo.svg" alt="" aria-hidden="true" role="presentation" />
 
 
 [chevron]: /assets/images/windows10.svgg "Logo Title Text 2"
