@@ -15,8 +15,8 @@ So let's get the ball rolling with some old favourites that you probably already
 |<kbd>Ctrl</kbd> + <kbd>v</kbd>| Paste|
 |<kbd>Ctrl</kbd> + <kbd>v</kbd>| Paste|
 |<kbd>⊞</kbd>| Show start Menu|
-
-![Windows Key][newwinlogo]
+|<kbd><img src="http://i.stack.imgur.com/Rfuw7.png"></kbd> + <kbd>r</kbd>| Run dialog|
+ 
 
 Reference-style: 
 ![alt text][logo]
