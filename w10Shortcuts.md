@@ -16,6 +16,8 @@ So let's get the ball rolling with some old favourites that you probably already
 |<kbd>Ctrl</kbd> + <kbd>v</kbd>| Paste|
 |<kbd>![Windows Key][newwinlogo]</kbd>| Show start Menu|
 
+![Windows Key][newwinlogo]
+
 Reference-style: 
 ![alt text][logo]
 
