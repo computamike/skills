@@ -22,4 +22,4 @@ So let's get the ball rolling with some old favourites that you probably already
 [winlogo]: http://i.stack.imgur.com/Rfuw7.png
 [newwinlogo]: http://i.stack.imgur.com/B8Zit.png
 [oldwinlogo]: http://i.stack.imgur.com/T0oPO.png
-![icon](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg) 
+[icon](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg) 
