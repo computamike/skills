@@ -17,13 +17,8 @@
 
     <style>
         path {
-            fill: #000;
-        }
-        @media (prefers-color-scheme: dark) {
-            path {
-                fill: #fff;
-            }
-        }
+            fill: currentColor;
+        } 
     </style>
 
 
