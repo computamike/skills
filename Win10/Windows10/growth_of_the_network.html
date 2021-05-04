@@ -25,22 +25,30 @@
 <nav id="siteNav">
 <ul>
    <li><a href="index.html" class="daddy main-node">Home</a></li>
-   <li><a href="networks.html" class="no-ch">Networks</a></li>
-   <li id="active"><a href="growth_of_the_network.html" class="active no-ch">Growth of the network</a></li>
-   <li><a href="single_computer.html" class="no-ch">Single Computer</a></li>
-   <li><a href="domain.html" class="daddy">Domain</a>
-   <ul class="other-section">
-      <li><a href="section.html" class="no-ch">Section</a></li>
-      <li><a href="section0.html" class="daddy">Section</a>
+   <li class="current-page-parent"><a href="networks.html" class="current-page-parent daddy">Networks</a>
+   <ul>
+      <li id="active"><a href="growth_of_the_network.html" class="active no-ch">Growth of the network</a></li>
+      <li><a href="single_computer.html" class="no-ch">Single Computer</a></li>
+      <li><a href="workgroup.html" class="no-ch">Workgroup</a></li>
+      <li><a href="domain.html" class="daddy">Domain</a>
       <ul class="other-section">
-         <li><a href="unit.html" class="no-ch">Unit</a></li>
-         <li><a href="unit0.html" class="no-ch">Unit</a></li>
+         <li><a href="profiles.html" class="no-ch">Profiles</a></li>
       </ul>
       </li>
-      <li><a href="section1.html" class="no-ch">Section</a></li>
+      <li><a href="mapping_a_resource.html" class="no-ch">Mapping a resource</a></li>
+      <li><a href="security_guidelines.html" class="no-ch">Security Guidelines</a></li>
    </ul>
    </li>
-   <li><a href="email.html" class="no-ch">Email</a></li>
+   <li><a href="email.html" class="daddy">Email</a>
+   <ul class="other-section">
+      <li><a href="outlook.html" class="no-ch">Outlook</a></li>
+      <li><a href="setting_up_folders.html" class="no-ch">Setting up folders</a></li>
+      <li><a href="outlook_rules.html" class="no-ch">Outlook Rules</a></li>
+      <li><a href="strategies_for_dealing_with_email.html" class="no-ch">Strategies for dealing with email</a></li>
+   </ul>
+   </li>
+   <li><a href="word.html" class="no-ch">Word</a></li>
+   <li><a href="excel.html" class="no-ch">Excel</a></li>
 </ul>
 </nav>
 <div id='topPagination'>
@@ -56,13 +64,28 @@
 <div id="ta11_124_2" class="block iDevice_content">
 <div class="exe-text"><p></p>
 <div class="exe-fx exe-carousel">
-<h2>Sole Trader - </h2>
-<p><span>So when a company first starts out - as a sole trader - then it might be that a company has a single computer, and as there is only 1 person in the company there is no need for a network</span></p>
+<h2>Single Computer</h2>
+<div style="display: flex; flex-wrap: wrap; width: 100%;">
+<div style="position: relative; flex: 1;">
+<p>In this scenario there is a single computer in use within the company. Individual users can have their own accounts on the computer</p>
+</div>
+<img style="max-width: 480px; margin-top: 0px; margin-bottom: 0px;" src="SinglePC.png" class="page-pic" width="480" height="360" /></div>
 <h2>Workgroup</h2>
-<p>As the workforce increases, then the company might<img src="jordan-harrison-40XgDxBfYXM-unsplash.jpg" alt="fo" width="196" height="131" style="float: right;" /> need to buy additional computers - but providing each computer with a printer (for example) can prove expensive, so in this scenario, a resource can be shared within the workgroup.</p>
-<p>Each person on the network is responsible for sharing their files / folders with fellow members of the workgroup.</p>
+<div style="display: flex; flex-wrap: wrap; width: 100%;">
+<div style="position: relative; flex: 1;">
+<p>As the workforce increases, then the company might need to buy additional computers - but providing each computer with a printer (for example) can prove expensive, so in this scenario, a resource can be shared within the workgroup.</p>
+<p>A PC on this network can share its resources to other machines on the network - so other users can all print to the same printer. Modern printing devices can provide that network sharing without the need for a machine within the workgroup to share a resource. Where a device is being shared by a workgroup computer, it is worth noting that if that machine is switched off, then that resource is no longer accessible to the other machines in the workgroup.</p>
+</div>
+<img style="max-width: 480px; margin-top: 0px; margin-bottom: 0px;" src="workgroup.png" class="page-pic" width="480" height="360" /></div>
 <h2>Domain</h2>
-<p>PINACLE</p>
+<div style="display: flex; flex-wrap: wrap; width: 100%;">
+<div style="position: relative; flex: 1;">
+<p>The biggest issue with the Workgroup model is that the user accounts are stored on each machine.  If you need to use a different machine, then you will need an account on that machine, and that is a job for an Administrator to set up that account with appropriate security.</p>
+<p>The Domain model instead allows the company to register each machine that it operates, and store the account passwords centrally.</p>
+<p>Adding a new user can now be done centrally, and that user can now log onto any machine that the company manages within it's domain.</p>
+<p></p>
+</div>
+<img style="max-width: 480px; margin-top: 0px; margin-bottom: 0px;" src="workgroup.png" class="page-pic" width="480" height="360" /></div>
 </div>
 <p><br /><br /></p></div>
 </div>
