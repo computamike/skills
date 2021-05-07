@@ -25,6 +25,6 @@ Currently the Module list is :
 
 In addition I have some cheatsheets that should help (hopefully).
 
-[View the page](https://computamike.github.io/skills/) 
+[View the Course](https://computamike.github.io/skills/Win10/Windows10/) 
 
 [View the Shortcuts cheat sheet](https://computamike.github.io/skills/w10Shortcuts)
