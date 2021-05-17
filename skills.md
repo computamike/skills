@@ -8,8 +8,11 @@ Excel is part of Microsoft's office suite of programs.
 * Cells are the smallest element within a workbook.  
 * Cells are arranged in a grid and are addressed through columns vertically and rows horizontally.
 * Cells can contain content, reference other cells or contain formulas.
+* Primarily used in Accounting and financial operations
+
 
 ### what isn't a spreadsheet
+
 ### formulas
 ### linking sheets
 ## word
